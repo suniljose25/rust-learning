@@ -1,3 +1,4 @@
+## Cargo
 Cargo is rust's build system.
 
 Create a new rust project with Cargo using the following command
